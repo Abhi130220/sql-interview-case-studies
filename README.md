@@ -11,11 +11,6 @@ Welcome to my SQL portfolio! This repository contains real-world SQL business pr
 - Subqueries & CTEs
 - Business Logic for Marketing, Sales, Finance
 
-## 🗂️ Folder Structure
-- `NamasteSQL`: Categorized beginner to advanced case studies
-- `DataLemur`: Difficulty-based interview prep
-- `Custom_Case_Studies`: Projects built from scratch using public datasets
-
 ## 💡 Why This Repo?
 To demonstrate business thinking, SQL fluency, and analytics capability for Data Analyst roles.
 
